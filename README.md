@@ -10,3 +10,4 @@
 * https://www.patterns.dev/
 * https://documentation.divio.com/
 * https://github.com/mtdvio/every-programmer-should-know
+* https://leetcode.com/discuss/career/229177/My-System-Design-Template
