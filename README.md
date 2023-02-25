@@ -20,3 +20,4 @@
 * https://addyosmani.com/blog/
 * https://www.kamilgrzybek.com/design/modular-monolith-primer/
 * https://blog.interviewcamp.io/
+* https://blog.pragmaticengineer.com/about/
