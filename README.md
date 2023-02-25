@@ -1,6 +1,7 @@
 # Resources
 ## Html & CSS
 ## Js
+* http://dmitrysoshnikov.com/
 * https://github.com/getify/You-Dont-Know-JS
 * https://javascript30.com/
 ## Java
@@ -21,3 +22,5 @@
 * https://www.kamilgrzybek.com/design/modular-monolith-primer/
 * https://blog.interviewcamp.io/
 * https://blog.pragmaticengineer.com/about/
+* https://www.karanpratapsingh.com/
+* https://www.patterns.dev/
