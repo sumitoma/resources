@@ -15,3 +15,8 @@
 * https://roadmap.sh/
 * https://www.allthingsdistributed.com/
 * https://scaleyourapp.com/
+* https://vahid.blog/
+* https://www.ravisuhag.com/
+* https://addyosmani.com/blog/
+* https://www.kamilgrzybek.com/design/modular-monolith-primer/
+* https://blog.interviewcamp.io/
