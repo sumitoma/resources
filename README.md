@@ -24,3 +24,4 @@
 * https://blog.pragmaticengineer.com/about/
 * https://www.karanpratapsingh.com/
 * https://www.patterns.dev/
+* https://arslan-ahmad.medium.com/
