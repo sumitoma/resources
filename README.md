@@ -28,3 +28,4 @@
 * https://theawesomenayak.com/
 * https://kubesimplify.com/
 * https://geeknarrator.com/
+* https://arpitbhayani.me/
