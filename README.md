@@ -26,3 +26,4 @@
 * https://www.patterns.dev/
 * https://arslan-ahmad.medium.com/
 * https://theawesomenayak.com/
+* https://kubesimplify.com/
