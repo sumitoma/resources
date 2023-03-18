@@ -29,3 +29,4 @@
 * https://kubesimplify.com/
 * https://geeknarrator.com/
 * https://arpitbhayani.me/
+* web.dev
