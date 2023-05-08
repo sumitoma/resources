@@ -31,3 +31,4 @@
 * https://arpitbhayani.me/
 * https://web.dev
 * https://www.youtube.com/@SDFC/featured
+* https://www.youtube.com/@TheMathSorcerer
