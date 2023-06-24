@@ -35,3 +35,4 @@
 * https://www.workingsoftware.dev/
 * https://www.authlete.com/
 * https://zonito.medium.com/list/art-of-system-design-d3658d72ce23
+* https://oauthdebugger.com/
