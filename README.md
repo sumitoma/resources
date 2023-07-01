@@ -39,3 +39,4 @@
 * https://www.traversymedia.com/guide
 * https://oauth.com
 * https://deepu.tech/
+* https://fusionauth.io/articles/oauth/modern-guide-to-oauth
