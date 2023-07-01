@@ -38,3 +38,4 @@
 * https://oauthdebugger.com/
 * https://www.traversymedia.com/guide
 * https://oauth.com
+* https://deepu.tech/
