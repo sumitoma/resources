@@ -42,3 +42,4 @@
 * https://fusionauth.io/articles/oauth/modern-guide-to-oauth
 * https://securityzines.com/
 * https://github.com/kilimchoi/engineering-blogs
+* https://apurvkhare.vercel.app/
