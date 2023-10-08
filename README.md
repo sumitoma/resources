@@ -44,3 +44,4 @@
 * https://github.com/kilimchoi/engineering-blogs
 * https://apurvkhare.vercel.app/
 * https://www.lydiahallie.io/
+* https://learnersbucket.com/
