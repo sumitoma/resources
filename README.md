@@ -45,3 +45,4 @@
 * https://apurvkhare.vercel.app/
 * https://www.lydiahallie.io/
 * https://learnersbucket.com/
+* https://exploringjs.com/impatient-js/index.html
