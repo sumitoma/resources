@@ -46,3 +46,4 @@
 * https://www.lydiahallie.io/
 * https://learnersbucket.com/
 * https://exploringjs.com/impatient-js/index.html
+* https://github.com/jordan-cutler/path-to-senior-engineer-handbook
