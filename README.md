@@ -49,3 +49,4 @@
 * https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 * https://addy.ie/
 * https://substack.com/@techworldwithmilan
+* https://frontendengineering.substack.com/
