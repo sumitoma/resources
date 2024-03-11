@@ -5,6 +5,7 @@
 * https://github.com/getify/You-Dont-Know-JS
 * https://javascript30.com/
 ## Java
+* https://www.youtube.com/watch?v=ZBJ0u9MaKtM (JVM Architecture)
 ## Others
 * https://insights.sei.cmu.edu/blog/tags/multicore-processing-and-virtualization/
 * https://www.sussex.ac.uk/informatics/punctuation/toc
