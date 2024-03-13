@@ -46,6 +46,7 @@
 * https://apurvkhare.vercel.app/
 * https://www.lydiahallie.io/
 * https://learnersbucket.com/
+* https://eloquentjavascript.net/
 * https://exploringjs.com/impatient-js/index.html
 * https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 * https://addy.ie/
