@@ -54,3 +54,4 @@
 * https://frontendengineering.substack.com/
 * https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1
 * https://microfrontend.dev/
+* https://podcasters.spotify.com/pod/show/fredrik-christenson
