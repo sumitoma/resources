@@ -59,3 +59,4 @@
 * https://podcasters.spotify.com/pod/show/fredrik-christenson
 * https://github.com/ashishps1/awesome-low-level-design
 * https://dev.to/louaiboumediene/series/27254
+* https://hellointerview.com
