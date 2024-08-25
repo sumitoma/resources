@@ -50,7 +50,7 @@
 * https://exploringjs.com/impatient-js/index.html
 * https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 * https://addy.ie/
-* https://substack.com/@techworldwithmilan
+* https://substack.com/@techworldwithmilan / https://newsletter.techworld-with-milan.com/
 * https://www.youtube.com/@javascriptmastery
 * https://www.adit.io/
 * https://frontendengineering.substack.com/
@@ -60,3 +60,12 @@
 * https://github.com/ashishps1/awesome-low-level-design
 * https://dev.to/louaiboumediene/series/27254
 * https://hellointerview.com
+* https://developers.becknprotocol.io/docs/introduction/beckn-protocol-specification/
+* https://techtalksweekly.substack.com/
+* https://cpu.land/
+* https://github.com/kumaransg/LLD
+* https://lldcoding.com/
+* https://htmlreference.io/element/details/ (similarly CSS reference io)
+* https://www.notion.so/evgeniiray/Front-End-Preparation-a0ac842415a04ddf9319718ea6ba22a4
+* https://developer.chrome.com/docs/web-platform/page-lifecycle-api
+* https://medium.com/@iamprovidence
