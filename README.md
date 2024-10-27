@@ -69,3 +69,4 @@
 * https://www.notion.so/evgeniiray/Front-End-Preparation-a0ac842415a04ddf9319718ea6ba22a4
 * https://developer.chrome.com/docs/web-platform/page-lifecycle-api
 * https://medium.com/@iamprovidence
+* https://ui.dev/why-react-renders
