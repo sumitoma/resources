@@ -73,3 +73,4 @@
 * https://blog.levelupcoding.com/
 * https://frontendatscale.com/
 * https://interviewing.io/
+* https://github.com/linnykoleh/awesome-system-design
