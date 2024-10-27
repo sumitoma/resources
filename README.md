@@ -71,3 +71,4 @@
 * https://medium.com/@iamprovidence
 * https://ui.dev/why-react-renders
 * https://blog.levelupcoding.com/
+* https://frontendatscale.com/
