@@ -70,3 +70,4 @@
 * https://developer.chrome.com/docs/web-platform/page-lifecycle-api
 * https://medium.com/@iamprovidence
 * https://ui.dev/why-react-renders
+* https://blog.levelupcoding.com/
