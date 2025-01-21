@@ -73,4 +73,7 @@
 * https://frontendatscale.com/
 * https://interviewing.io/
 * https://github.com/linnykoleh/awesome-system-design
+## AI and ML
 * fast.ai
+* https://machinelearningmastery.com/roadmap-mastering-machine-learning-2025/
+* https://huggingface.co/blog/mlabonne/llm-course
