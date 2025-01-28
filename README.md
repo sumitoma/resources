@@ -4,6 +4,7 @@
 * http://dmitrysoshnikov.com/
 * https://github.com/getify/You-Dont-Know-JS
 * https://javascript30.com/
+* https://browser.engineering/
 ## Java
 * https://www.youtube.com/watch?v=ZBJ0u9MaKtM (JVM Architecture)
 ## Others
