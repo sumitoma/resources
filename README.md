@@ -7,6 +7,8 @@
 * https://browser.engineering/
 ## Java
 * https://www.youtube.com/watch?v=ZBJ0u9MaKtM (JVM Architecture)
+* https://docs.oracle.com/javase/specs/
+  
 ## Others
 * https://insights.sei.cmu.edu/blog/tags/multicore-processing-and-virtualization/
 * https://www.sussex.ac.uk/informatics/punctuation/toc
