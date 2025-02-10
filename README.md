@@ -8,6 +8,7 @@
 ## Java
 * https://www.youtube.com/watch?v=ZBJ0u9MaKtM (JVM Architecture)
 * https://docs.oracle.com/javase/specs/
+* https://dev.java/learn
   
 ## Others
 * https://insights.sei.cmu.edu/blog/tags/multicore-processing-and-virtualization/
