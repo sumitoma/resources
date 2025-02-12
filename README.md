@@ -78,6 +78,7 @@
 * https://frontendatscale.com/
 * https://interviewing.io/
 * https://github.com/linnykoleh/awesome-system-design
+* [Awesome speaking] (https://github.com/matteofigus/awesome-speaking)
 ## AI and ML
 * fast.ai
 * https://machinelearningmastery.com/roadmap-mastering-machine-learning-2025/
