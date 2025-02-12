@@ -9,7 +9,8 @@
 * https://www.youtube.com/watch?v=ZBJ0u9MaKtM (JVM Architecture)
 * https://docs.oracle.com/javase/specs/
 * https://dev.java/learn
-  
+## REST
+* https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs?&aid=recFWBINzOmXeNjfd&_bhlid=f15bd424636678cb6ce5113fa75980237204ed31#rule-6-do-use-strings-for-all-identifiers
 ## Others
 * https://insights.sei.cmu.edu/blog/tags/multicore-processing-and-virtualization/
 * https://www.sussex.ac.uk/informatics/punctuation/toc
