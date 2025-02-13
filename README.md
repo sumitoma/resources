@@ -11,6 +11,8 @@
 * https://dev.java/learn
 ## REST
 * [Rest best practices](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs?&aid=recFWBINzOmXeNjfd&_bhlid=f15bd424636678cb6ce5113fa75980237204ed31#rule-6-do-use-strings-for-all-identifiers)
+## DB
+* [DB Design](https://kb.databasedesignbook.com/)
 ## Others
 * https://insights.sei.cmu.edu/blog/tags/multicore-processing-and-virtualization/
 * https://www.sussex.ac.uk/informatics/punctuation/toc
